@@ -2,9 +2,9 @@ const settings = {
   "name": "my-first-frontity-project",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://my-first-frontity-project.vercel.app/",
+      "title": "FreeWargamer",
+      "description": ""
     }
   },
   "packages": [
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://freewargamer.com/"
         }
       }
     },
